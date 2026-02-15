@@ -1,4 +1,4 @@
-# Sistema de Orçamento - Imobiliária Pfleger
+# Sistema de Orçamento - R.M. Imobiliária
 
 Sistema interativo de orçamento de aluguel desenvolvido em Python para facilitar o cálculo de valores mensais baseado nas preferências do cliente.
 
