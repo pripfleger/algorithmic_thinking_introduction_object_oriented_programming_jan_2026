@@ -164,7 +164,7 @@ def encerrar_sistema():
 def executar_orcamento():
     while True:
         limpar_tela()
-        print("---------- IMOBILIÁRIA PFLEGER ----------\n")
+        print("---------- R.M. IMOBILIÁRIA ----------\n")
         quer_orcamento = input("Gostaria de fazer um orçamento? (S) sim ou (N) não ").upper() #ESCOLHA DO CLIENTE SE QUER ORÇAR OU NÃO
         if quer_orcamento == "S":
             valor_orcamento()
